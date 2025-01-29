@@ -1,0 +1,1 @@
+Add the year, the month, and the day for the both side. Then multiply both results for the final answer.
