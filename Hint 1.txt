@@ -4,4 +4,4 @@ var e = [ ?1 ](string);
 console.log(e); // Outputs: "Q3JhZGxlcw=="
 
 var d = [ ?2 ](e)
-console.log(e); // Outputs: "Cradles"
+console.log(d); // Outputs: "Cradles"
